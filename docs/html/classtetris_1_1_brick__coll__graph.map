@@ -1,0 +1,4 @@
+<map id="tetris::Brick" name="tetris::Brick">
+<area shape="rect" id="node1" title="The Brick class is designed to initialize and render brick sprites." alt="" coords="33,95,122,121"/>
+<area shape="rect" id="node2" href="$structtetris_1_1_brick_1_1_position.html" title=" " alt="" coords="5,5,149,32"/>
+</map>
